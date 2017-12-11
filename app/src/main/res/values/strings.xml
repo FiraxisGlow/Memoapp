@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Memo App</string>
+    <string name="button_new">New Memo</string>
+    <string name="button_save">Save</string>
+</resources>
